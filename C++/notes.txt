@@ -1,0 +1,13 @@
+https://www.w3schools.com/python/default.asp
+wawd {} #- agrupam linhas de código, todas as funções começam e terminam com curly brackets
+printf() #- prints to screen
+; semicolon on end of every line
+todas as variáveis devem ser descritas como int x; float y
+define ANSWER 42 -> define substitui ANSWER por 42 em qualquer lugar do arquivo. se for para trocar um caracter (#define ANSWER 'x') o texto deve estar em aspas únicas
+&& (AND), || (OR), ! (NOT)
+if, else if, else no lugar de elif
+
+to get out of loop, "break" after statement
+to return to beginning, "continue" 
+
+global variáveis declared with "extern" int variavel, fora de qqr função
